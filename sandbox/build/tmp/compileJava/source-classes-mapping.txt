@@ -1,2 +1,2 @@
-HelloWorld.java
- HelloWorld
+ru/bcsqa/ptf/sandbox/HelloWorld.java
+ ru.bcsqa.ptf.sandbox.HelloWorld
