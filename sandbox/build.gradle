@@ -1,11 +1,14 @@
 apply plugin: 'java'
 apply plugin: 'application'
-mainClassName = "ru.bcsqa.ptd.sandbox.HelloWorld"
+mainClassName = "HelloWorld"
 
+test {
+    useTestNG()
+}
 repositories {
     mavenCentral()
 }
-
 dependencies {
-    compile 'org.testing:testing:6.9.10'
+    compile 'org.testng:testng:7.4.0'
+
 }

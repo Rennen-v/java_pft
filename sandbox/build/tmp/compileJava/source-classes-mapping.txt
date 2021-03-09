@@ -4,3 +4,7 @@ ru/bcsqa/ptf/sandbox/Square.java
  ru.bcsqa.ptf.sandbox.Square
 ru/bcsqa/ptf/sandbox/Rectangle.java
  ru.bcsqa.ptf.sandbox.Rectangle
+ru/bcsqa/ptf/sandbox/point.java
+ ru.bcsqa.ptf.sandbox.point
+ru/bcsqa/ptf/sandbox/PointRunner.java
+ ru.bcsqa.ptf.sandbox.PointRunner
